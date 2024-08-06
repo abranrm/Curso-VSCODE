@@ -23,4 +23,4 @@ sin_asignar_tipo = None
 # Imprimir por consola nombre del lenguaje
 
 lenguaje = 'Python'
-print(f"¡Hola, {lenguaje}!")
+print(f"¡Hola, {lenguaje}!"
